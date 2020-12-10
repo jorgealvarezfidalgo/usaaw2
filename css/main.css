@@ -45,7 +45,7 @@ figure img, figure video, figure audio {
 	margin-right: auto;
 }
 
-section img {
+div img {
 	width: 13em;
 	max-width: 80%;
 }
@@ -132,7 +132,7 @@ footer,
 	text-transform: uppercase;
 }
 
-#bio section {
+#bio section, #bio img {
 	float: left;
 }
 
