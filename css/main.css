@@ -139,3 +139,11 @@ footer,
 #bio > * {
 	border-left: solid 0.063em rgba(160, 160, 160, 0.3);
 }
+
+.under {
+	text-decoration: underline;
+}
+
+.bold {
+	font-weight: bold;
+}
